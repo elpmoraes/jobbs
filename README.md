@@ -10,9 +10,9 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [PHP]
-- [Laravel]
-- [HTML]
-- [CSS]
+- PHP
+- Laravel
+- HTML
+- CSS
 
 
